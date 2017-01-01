@@ -1,8 +1,8 @@
-= Evolution MK-249C remote script for Ableton Live
+# Evolution MK-249C remote script for Ableton Live
 
 Add a remote script support for the old Evolution MK-249C MIDI controller. It allows you to use the 8 knobs as a remote, that is gonna be affected dynamically to the 8 macros of your instrument/effect.
 
-== Installation
+## Installation
 
 Clone the repository the remote script path.
 
